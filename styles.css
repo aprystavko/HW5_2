@@ -10,6 +10,7 @@ body, table {
     margin: 0 auto;
     max-width: 1440px;
     font-family: 'Nunito';
+    font-family: 'Nunito', sans-serif;
 }
 
 table {
@@ -29,7 +30,6 @@ input[type="submit"], input[type="reset"]  {
     line-height: 25px;
     cursor: pointer;
     border-radius: 5px;
-    font-family: Nunito;
     line-height: 24.55px;
     text-align: center;
     width: 200px;
